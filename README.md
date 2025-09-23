@@ -36,7 +36,7 @@ Este projeto utiliza um Arduino para monitorar sinais de áudio e acionar um ala
 
 ## 🧠 Código-fonte
 
-O código está disponível no arquivo `main.ino`. Ele inclui lógica para leitura do sinal, controle dos LEDs e reset por botão com debounce externo.
+O código está disponível no arquivo `main.cpp`. Ele inclui lógica para leitura do sinal, controle dos LEDs e reset por botão com debounce externo.
 
 ---
 
